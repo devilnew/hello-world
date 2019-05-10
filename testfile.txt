@@ -1,0 +1,30 @@
+updaet=1
+this is test file for chcecking s3
+this is test file for chcecking s3
+this is test file for chcecking s3
+this is test file for chcecking s3
+this is test file for chcecking s3
+
+updaet=2
+this is test file for chcecking s3
+this is test file for chcecking s3
+this is test file for chcecking s3
+this is test file for chcecking s3
+this is test file for chcecking s3
+
+updaet=3
+this is test file for chcecking s3
+this is test file for chcecking s3
+this is test file for chcecking s3
+this is test file for chcecking s3
+this is test file for chcecking s3
+
+id 
+
+AKIA3ZVBSQ6XDIPMQ6BC
+
+EtZjYPLqDa7nTD656uXzrv0JGbrwgKtY3GynFizl
+
+
+
+aws s3 sync s3://wildryes-us=east-1/webapplication/1_staticwebhosting/website s3://www.sandeep.xyz --region us-east-1
